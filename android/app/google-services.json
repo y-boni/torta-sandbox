@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32897485333",
+    "project_id": "torta-example",
+    "storage_bucket": "torta-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32897485333:android:b793d7cca5cffba7455c1c",
+        "android_client_info": {
+          "package_name": "com.mycompany.torta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoYpem58v0qrrfAMAWvmV3kcvG3ii6Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
